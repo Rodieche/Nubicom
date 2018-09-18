@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.d0c20a01ddfe33701f67.js",
+        "/polyfills.f6ae3e8b63939c618130.js",
+        "/runtime.06daa30a2963fa413676.js",
+        "/scripts.36c624724711738aeb68.js",
+        "/styles.07f10dfd1de703343bca.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/b2.jpg",
+        "/assets/background.jpg",
+        "/assets/background.mp3",
+        "/assets/bootstrap.min.css",
+        "/assets/card1.jpg",
+        "/assets/grandes.jpg",
+        "/assets/hogares.jpg",
+        "/assets/icon-128x128.png",
+        "/assets/icon-144x144.png",
+        "/assets/icon-152x152.png",
+        "/assets/icon-192x192.png",
+        "/assets/icon-384x384.png",
+        "/assets/icon-512x512.png",
+        "/assets/icon-72x72.png",
+        "/assets/icon-96x96.png",
+        "/assets/nubicom.png",
+        "/assets/parallax1.jpg",
+        "/assets/parallax2.jpg",
+        "/assets/parallax3.jpg",
+        "/assets/parallax4.jpg",
+        "/assets/pymes.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/b2.jpg": "9b90c899d4ebf64ec2141d7eb41edda557ca1163",
+    "/assets/background.jpg": "ab8c44948194d8ac17b9a7b08aad652859e366c1",
+    "/assets/background.mp3": "81b8de0ab3adeaa369ea86e11f5f6513c0037ea7",
+    "/assets/bootstrap.min.css": "7ccf464455d57e73be3acf820ba77ee92ad4fc13",
+    "/assets/card1.jpg": "61df20401422e74454f6dd066a33180d688c514a",
+    "/assets/grandes.jpg": "d15de328f0972059283a614e3bad351a8cdf23a5",
+    "/assets/hogares.jpg": "0515a6c22ce1a7a15c9d5ee70d10a3c82819fc70",
+    "/assets/icon-128x128.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-144x144.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-152x152.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-192x192.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-384x384.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-512x512.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-72x72.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/icon-96x96.png": "691d568938f448fc07015c1d428ceb86709cfefe",
+    "/assets/nubicom.png": "4ad69043e1b10a76256577e97abdf34de3d9302f",
+    "/assets/parallax1.jpg": "259624254ec0bb79f6f6592253b559a779183601",
+    "/assets/parallax2.jpg": "257618ff3bc15fc7504cc33eabd961d6108899d9",
+    "/assets/parallax3.jpg": "ec9320f54ca390cf160e6a501aa9d6ca16634f5f",
+    "/assets/parallax4.jpg": "baad3f53ce7af2cae2d5f95a5d1260df833c14e9",
+    "/assets/pymes.jpg": "534ddbd9ad66bbbac4c6be9d6d4b343d0fe4ec9a",
+    "/favicon.ico": "c3414a63a31c9f2bc0c67c2110938fee23852c39",
+    "/index.html": "c77ba0db4340b9327b3c272a1c81c9cb73789c91",
+    "/main.d0c20a01ddfe33701f67.js": "c190c300ce9bea77604ef92881959c6c878e3a69",
+    "/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.36c624724711738aeb68.js": "9c5620d87c9fbc385799955a2f353f4eca074f88",
+    "/styles.07f10dfd1de703343bca.css": "7097bf9c9fd7dbba2a9254c2099d653df13325a0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
